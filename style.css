@@ -18,7 +18,7 @@
      background-color: white;
      border-radius: 10px;
      width: 240px;
-     height: 380px;
+     height: 400px;
      padding: 10px;
  }
 
@@ -31,4 +31,16 @@
  article {
      text-align: center;
      margin: 10px;
+ }
+
+ h3 {
+     font-family: 'Outfit', sans-serif;
+     font-weight: 700;
+ }
+
+ p {
+     font-family: 'Outfit', sans-serif;
+     font-weight: 400;
+     font-size: 15px;
+
  }
